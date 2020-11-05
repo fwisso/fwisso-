@@ -3,12 +3,11 @@
 <h2>mohamed el fassi</h2>
 <h3>mohamed el fassi</h3>
 <p>CIVILITÉ</p>
-Mr.
-<input type="radio" name="f">
-Mme.
-<input type="radio" name="f">
-Mlle
-<input type="radio" name="f">
+<input type="radio" name="f">Mr.
+
+<input type="radio" name="f">Mme.
+
+<input type="radio" name="f">Mlle.
 <p>
 <input type="text" name="nom" placeholder ="nom"></p>
 <p>
